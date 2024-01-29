@@ -2,7 +2,7 @@
 
 Welcome to my Github profile.
 
-I'm a seasoned data scientist with a deep passion for pushing the boundaries of **Generative AI** and **Machine Learning**. With a solid foundation in Python, Machine Learning, SQL, and more, I've honed my skills to craft innovative solutions that harness the power of large language models and cutting-edge techniques. My expertise extends to Deep Learning, Vector Databases, and the development of LLM-based applications using Langchain and more. I thrive on transforming complex data into actionable insights and believe in the potential of AI to drive meaningful change. Let's connect and explore the limitless possibilities at the intersection of data science and AI.
+I'm a seasoned data scientist with a deep passion for pushing the boundaries of **Data Science**. With a solid foundation in Python, Machine Learning, SQL, and more, I've honed my skills to craft innovative solutions that harness the power of large language models and cutting-edge techniques. My expertise extends to Deep Learning, Vector Databases, and the development of LLM-based applications using Langchain and more. I thrive on transforming complex data into actionable insights and believe in the potential of AI to drive meaningful change. Let's connect and explore the limitless possibilities at the intersection of data science and AI.
 
 ![](https://komarev.com/ghpvc/?username=sarmadafzalj)
 
